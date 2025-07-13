@@ -2,7 +2,7 @@
 
 A modern, stylish, and fully responsive HTML portfolio website template built for fashion, modeling, and creative agencies. This project is coded using **pure HTML** and includes visually appealing sections to showcase models, services, and galleries effectively.
 
-> 🔗 **Live Demo**: [View Site](https://engrshuvodas.github.io/TRENDYMODELS-PORTFOLIO/)
+> 🔗 **Live Demo**: [View Site](https://engrshuvodas.github.io/TrendyModels-Portfolio/)
 
 ---
 
