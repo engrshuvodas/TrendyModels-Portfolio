@@ -70,6 +70,6 @@ This project is open source and free to use for personal or commercial use. Modi
 
 ---
 
-> For any business inquiry or portfolio collaboration, feel free to reach out via [contact form](contact.html) or through my portfolio.
+> For any business inquiry or portfolio collaboration, feel free to reach out via [contact form](https://engrshuvodas.github.io/Submit-Text-to-Shuvo/) or through my portfolio.
 
 ---
