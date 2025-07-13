@@ -60,7 +60,7 @@ TRENDYMODELS-PORTFOLIO/
 
 ## 📷 Project Preview
 
-![Website Preview](images/look-preview.png)
+![Website Preview](./preview.png)
 
 ---
 
